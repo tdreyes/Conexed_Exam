@@ -8,7 +8,7 @@ When User click guest registration button
 When User click on register here button
 When User enters the details into below fields
 |fullName|Juan Ponce											|
-|email|youquoussomiddo-6034@yopmail.com
+|email|youquoussomiddo-6034@yopmail.com   |
 |password|Welcome1									|
 And User click on register button
 Then User account should be created successfully
